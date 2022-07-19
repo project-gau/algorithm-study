@@ -1,0 +1,10 @@
+
+스택 LIFO
+asdf -> fdsa
+
+<ddd> -> >ddd< -> <ddd>
+
+
+<open>tag<close>
+
+띄어쓰기, <, 엔터
